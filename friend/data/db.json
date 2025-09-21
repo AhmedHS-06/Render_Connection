@@ -1,0 +1,14 @@
+{
+  "ids": {
+    "Friend": 2,
+    "Address": 2
+  },
+  "models": {
+    "Friend": {
+      "1": "{\"firstname\":\"Ahmed\",\"lastname\":\"Hany\",\"id\":1}"
+    },
+    "Address": {
+      "1": "{\"city\":\"Venlo\",\"postcode\":\"5911 KH\",\"street\":\"Spoorstraat\",\"house_number\":\"23\",\"friendId\":1,\"id\":1}"
+    }
+  }
+}
